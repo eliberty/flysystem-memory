@@ -1,5 +1,5 @@
 {
-    "name": "league/flysystem-memory",
+    "name": "eliberty/league-flysystem-memory",
     "description": "An in-memory adapter for Flysystem.",
     "keywords": [
         "flysystem",
