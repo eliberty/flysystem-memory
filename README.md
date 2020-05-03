@@ -10,10 +10,12 @@
 
 This adapter keeps the filesystem in memory. It's useful when you need a filesystem, but do not need it persisted.
 
+This version have been modified to extend AbstractAdapter to be compatible with VichUploader
+
 ## Installation
 
 ```bash
-composer require league/flysystem-memory
+composer require eliberty/league-flysystem-memory
 ```
 
 ## Usage
